@@ -18,7 +18,7 @@ src/ - Directory with source code.
     <img src="https://github.com/vasantvohra/image-processing/blob/master/cmd.PNG?raw=true" alt="CMD"/>
 </p>
 
-		### COMMANDLINE ARGUMENTS
+### COMMANDLINE ARGUMENTS
 
 	1. pmake.py - Python file to run the functions like:
 	USAGE: python pmake.py -i<image_path>.<extention> -o <option> -f1<int_factor> -f2 <factor2>
@@ -42,16 +42,18 @@ src/ - Directory with source code.
 	python filter.py --image input.png -kernel sharpen
 
 # HELP:
+```
 python filter.py --help <br>
 python pmake.py --help
+```
 
 HOW to PROCEED
 ==============
 1. install python! version=3.6
 2. library install  : Python imaging library
-
+```
 pip install -r requirements.txt or pip install pillow , pip install numpy
-
+```
 
 3. In windows :
 Command prompt:<br>
