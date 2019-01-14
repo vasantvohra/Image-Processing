@@ -1,6 +1,8 @@
 # Image Processing
 Princeton University ASSIGNMENT - https://www.cs.princeton.edu/courses/archive/spring14/cos426/assignment1/examples.html
-
+<p align="center">
+    <img src="https://github.com/vasantvohra/image-processibg/output.png?raw=true" alt="Output"/>
+</p>
 *!!! PYTHON CODE !!!*
 
 File Structure
@@ -9,7 +11,10 @@ output/ - Empty to start.  Automatically writes the output images produced by th
  *Do have a look before start*
 
 src/ - Directory with source code.
-
+![](cmd.png)
+<p align="center">
+    <img src="https://github.com/vasantvohra/image-processibg/cmd.png?raw=true" alt="CMD"/>
+</p>
 		COMMANDLINE ARGUMENTS
 
 	1. pmake.py - Python file to run the functions like:
