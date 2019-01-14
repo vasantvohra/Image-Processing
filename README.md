@@ -14,7 +14,7 @@ src/ - Directory with source code.
 <p align="center">
     <img src="https://github.com/vasantvohra/image-processing/master/blob/cmd.PNG?raw=true" alt="CMD"/>
 </p>
-		COMMANDLINE ARGUMENTS
+		#COMMANDLINE ARGUMENTS
 
 	1. pmake.py - Python file to run the functions like:
 	USAGE: python pmake.py -i<image_path>.<extention> -o <option> -f1<int_factor> -f2 <factor2>
@@ -73,7 +73,7 @@ Linux, browse WEB!
 CMD: python alpha.py
 <p>
     <img src="https://github.com/vasantvohra/image-processing/blob/master/1.jpg?raw=true" alt="Original"/>
-	<img src="https://github.com/vasantvohra/image-processing/blob/master/2.jpg?raw=true" alt="Original"/>
-	<img src="https://github.com/vasantvohra/image-processing/blob/master/alpha composite.jpg?raw=true" alt="Original"/>
+	<img src="https://github.com/vasantvohra/image-processing/blob/master/2.jpg?raw=true" alt="alpha"/>
+	<img src="https://github.com/vasantvohra/image-processing/blob/master/alpha composite.jpg?raw=true" alt="Alpha composite"/>
 </p>
 Waiting for a positive response!
