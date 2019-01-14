@@ -3,7 +3,9 @@ Princeton University ASSIGNMENT - https://www.cs.princeton.edu/courses/archive/s
 <p align="center">
     <img src="https://github.com/vasantvohra/Image-Processing/blob/master/output2.png?raw=true" alt="Output"/>
 </p>
+```
 *!!! PYTHON CODE !!!*
+```
 
 File Structure
 
@@ -11,10 +13,12 @@ output/ - Empty to start.  Automatically writes the output images produced by th
  *Do have a look before start*
 
 src/ - Directory with source code.
+
 <p align="center">
     <img src="https://github.com/vasantvohra/image-processing/blob/master/cmd.PNG?raw=true" alt="CMD"/>
 </p>
-		#COMMANDLINE ARGUMENTS
+
+		### COMMANDLINE ARGUMENTS
 
 	1. pmake.py - Python file to run the functions like:
 	USAGE: python pmake.py -i<image_path>.<extention> -o <option> -f1<int_factor> -f2 <factor2>
@@ -37,7 +41,7 @@ src/ - Directory with source code.
 	or
 	python filter.py --image input.png -kernel sharpen
 
-#HELP:
+# HELP:
 python filter.py --help <br>
 python pmake.py --help
 
@@ -66,14 +70,16 @@ After extracting anywhere.
 
 5. Hope all the codes work!
 
-#UPDATE:
+# UPDATE:
 ---To run alpha composite:<br>
 In Windows, pip install opencv <br>
 Linux, browse WEB!<br>
+```
 CMD: python alpha.py
+```
 <p>
     <img src="https://github.com/vasantvohra/image-processing/blob/master/1.jpg?raw=true" alt="Original"/>
-	<img src="https://github.com/vasantvohra/image-processing/blob/master/2.jpg?raw=true" alt="alpha"/>
-	<img src="https://github.com/vasantvohra/image-processing/blob/master/alpha composite.jpg?raw=true" alt="Alpha composite"/>
-</p>
+		<img src="https://github.com/vasantvohra/image-processing/blob/master/2.jpg?raw=true" alt="alpha"/>
+		<img src="https://github.com/vasantvohra/image-processing/blob/master/alpha composite.jpg?raw=true" alt="Alpha composite"/>
+</p><br>
 Waiting for a positive response!
