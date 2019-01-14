@@ -1,7 +1,7 @@
 # Image Processing
 Princeton University ASSIGNMENT - https://www.cs.princeton.edu/courses/archive/spring14/cos426/assignment1/examples.html
 <p align="center">
-    <img src="https://github.com/vasantvohra/image-processibg/output.png?raw=true" alt="Output"/>
+    <img src="https://github.com/vasantvohra/image-processing/output.png?raw=true" alt="Output"/>
 </p>
 *!!! PYTHON CODE !!!*
 
@@ -13,7 +13,7 @@ output/ - Empty to start.  Automatically writes the output images produced by th
 src/ - Directory with source code.
 ![](cmd.png)
 <p align="center">
-    <img src="https://github.com/vasantvohra/image-processibg/cmd.png?raw=true" alt="CMD"/>
+    <img src="https://github.com/vasantvohra/image-processing/cmd.png?raw=true" alt="CMD"/>
 </p>
 		COMMANDLINE ARGUMENTS
 
@@ -72,5 +72,9 @@ UPDATE:
 In Windows, pip install opencv
 Linux, browse WEB!
 CMD: python alpha.py
-
+<p>
+    <img src="https://github.com/vasantvohra/image-processing/1.jpg?raw=true" alt="Original"/>
+	<img src="https://github.com/vasantvohra/image-processing/2.jpg?raw=true" alt="Original"/>
+	<img src="https://github.com/vasantvohra/image-processing/alpha composite.jpg?raw=true" alt="Original"/>
+</p>
 Waiting for a positive response!
