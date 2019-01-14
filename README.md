@@ -51,7 +51,7 @@ Cd- change directory to python installation : python36\scripts
 then, step 2.
 
 After library installation:
-Extract this zip to python installation //python.exe and files in Src folder are in same directory.
+Extract this zip to python installation //python.exe and py files are in same directory.
 
 4.RUN ARGUMENTS:
  
