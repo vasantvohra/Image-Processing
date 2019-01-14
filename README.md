@@ -37,8 +37,8 @@ src/ - Directory with source code.
 	or
 	python filter.py --image input.png -kernel sharpen
 
-HELP:
-python filter.py --help
+#HELP:
+python filter.py --help <br>
 python pmake.py --help
 
 HOW to PROCEED
@@ -49,15 +49,15 @@ HOW to PROCEED
 pip install -r requirements.txt or pip install pillow , pip install numpy
 
 
-3.In windows :
-Command prompt:
+3. In windows :
+Command prompt:<br>
 Cd- change directory to python installation : python36\scripts
 then, step 2.
 
-After library installation:
+After library installation:<br>
 Extract this zip to python installation //python.exe and py files are in same directory.
 
-4.RUN ARGUMENTS:
+4. RUN ARGUMENTS:
  
 if Linux or Mac OSX 
 --Run above mentioned commands on pmake and filter
@@ -66,10 +66,10 @@ After extracting anywhere.
 
 5. Hope all the codes work!
 
-UPDATE:
----To run alpha composite:
-In Windows, pip install opencv
-Linux, browse WEB!
+#UPDATE:
+---To run alpha composite:<br>
+In Windows, pip install opencv <br>
+Linux, browse WEB!<br>
 CMD: python alpha.py
 <p>
     <img src="https://github.com/vasantvohra/image-processing/blob/master/1.jpg?raw=true" alt="Original"/>
