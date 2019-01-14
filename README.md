@@ -39,7 +39,7 @@ output/ - Empty to start.  Automatically writes the output images produced by th
 	or
 	python filter.py --image input.png -kernel sharpen
 
-# HELP:
+# HELP
 ```
 python filter.py --help 
 python pmake.py --help
