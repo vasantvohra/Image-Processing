@@ -12,7 +12,7 @@ output/ - Empty to start.  Automatically writes the output images produced by th
 
 src/ - Directory with source code.
 <p align="center">
-    <img src="https://github.com/vasantvohra/image-processing/master/blob/cmd.png?raw=true" alt="CMD"/>
+    <img src="https://github.com/vasantvohra/image-processing/master/blob/cmd.PNG?raw=true" alt="CMD"/>
 </p>
 		COMMANDLINE ARGUMENTS
 
@@ -72,8 +72,8 @@ In Windows, pip install opencv
 Linux, browse WEB!
 CMD: python alpha.py
 <p>
-    <img src="https://github.com/vasantvohra/image-processing/1.jpg?raw=true" alt="Original"/>
-	<img src="https://github.com/vasantvohra/image-processing/2.jpg?raw=true" alt="Original"/>
-	<img src="https://github.com/vasantvohra/image-processing/alpha composite.jpg?raw=true" alt="Original"/>
+    <img src="https://github.com/vasantvohra/image-processing/blob/master/1.jpg?raw=true" alt="Original"/>
+	<img src="https://github.com/vasantvohra/image-processing/blob/master/2.jpg?raw=true" alt="Original"/>
+	<img src="https://github.com/vasantvohra/image-processing/blob/master/alpha composite.jpg?raw=true" alt="Original"/>
 </p>
 Waiting for a positive response!
