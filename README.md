@@ -12,7 +12,7 @@ output/ - Empty to start.  Automatically writes the output images produced by th
 
 src/ - Directory with source code.
 <p align="center">
-    <img src="https://github.com/vasantvohra/image-processing/master/blob/cmd.PNG?raw=true" alt="CMD"/>
+    <img src="https://github.com/vasantvohra/image-processing/blob/master/cmd.PNG?raw=true" alt="CMD"/>
 </p>
 		#COMMANDLINE ARGUMENTS
 
