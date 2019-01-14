@@ -1,7 +1,7 @@
 # Image Processing
 Princeton University ASSIGNMENT - https://www.cs.princeton.edu/courses/archive/spring14/cos426/assignment1/examples.html
 <p align="center">
-    <img src="https://github.com/vasantvohra/image-processing/output.png?raw=true" alt="Output"/>
+    <img src="https://github.com/vasantvohra/Image-Processing/output2.png?raw=true" alt="Output"/>
 </p>
 *!!! PYTHON CODE !!!*
 
