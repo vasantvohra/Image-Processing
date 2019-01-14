@@ -4,15 +4,13 @@ Princeton University ASSIGNMENT - https://www.cs.princeton.edu/courses/archive/s
     <img src="https://github.com/vasantvohra/Image-Processing/blob/master/output2.png?raw=true" alt="Output"/>
 </p>
 ```
-*!!! PYTHON CODE !!!*
+PYTHON CODE
 ```
 
 File Structure
 
 output/ - Empty to start.  Automatically writes the output images produced by the program into this folder with filter or option used.
  *Do have a look before start*
-
-src/ - Directory with source code.
 
 <p align="center">
     <img src="https://github.com/vasantvohra/image-processing/blob/master/cmd.PNG?raw=true" alt="CMD"/>
@@ -43,7 +41,7 @@ src/ - Directory with source code.
 
 # HELP:
 ```
-python filter.py --help <br>
+python filter.py --help 
 python pmake.py --help
 ```
 
@@ -74,7 +72,10 @@ After extracting anywhere.
 
 # UPDATE:
 ---To run alpha composite:<br>
-In Windows, pip install opencv <br>
+In Windows,
+```
+ pip install opencv 
+ ```
 Linux, browse WEB!<br>
 ```
 CMD: python alpha.py
