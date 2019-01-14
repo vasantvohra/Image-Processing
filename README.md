@@ -1,6 +1,4 @@
 # Image Processing
-*Have a look to HTML writeup.html *
-
 Princeton University ASSIGNMENT - https://www.cs.princeton.edu/courses/archive/spring14/cos426/assignment1/examples.html
 
 *!!! PYTHON CODE !!!*
