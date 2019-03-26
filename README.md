@@ -85,4 +85,3 @@ CMD: python alpha.py
 		<img src="https://github.com/vasantvohra/image-processing/blob/master/2.jpg?raw=true" alt="alpha"/>
 		<img src="https://github.com/vasantvohra/image-processing/blob/master/alpha composite.jpg?raw=true" alt="Alpha composite"/>
 </p><br>
-Waiting for a positive response!
