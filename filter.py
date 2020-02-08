@@ -37,7 +37,7 @@ ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required=True,
 	help="path to the input image")
 ap.add_argument("-k", "--kernel",
-	help="kernel to be used: sharpen,edge,gaussian blur")
+	help="kernel to be used: sharpen,edge,gaussian_blur")
 args = vars(ap.parse_args())
 Kernel = args["kernel"]
 #Sharpening kernel
@@ -67,7 +67,7 @@ kernelBank = (
                      ("Gaussian kernel", gaussian_kernel),
             ("Box kernel", box_kernel),
 )
-kernelBank2 = {"sharpen":sharpen,"edge":edge ,"gaussian blur": gaussian_kernel,"Box kernel": box_kernel}
+kernelBank2 = {"sharpen":sharpen,"edge":edge ,"gaussian_blur": gaussian_kernel,"Box kernel": box_kernel}
 
 # Load image:
 input_image = Image.open(args["image"])
